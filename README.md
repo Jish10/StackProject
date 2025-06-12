@@ -15,9 +15,8 @@ This project implements a **Stack** data structure in the C programming language
 
 ## Structure
 
-- `stack.h` – Contains data structures (`valueT`, `nodeT`, `stackT`) and function prototypes
-- `stack.c` – Function implementations
-- `main.c` – Example usage (can be extended for testing)
+- `stack.h` – Contains data structures (`valueT`, `nodeT`, `stackT`) and function prototypes 
+- `main.c` – Example usage (can be extended for testing) and functions implementations
 
 ## Compilation
 
