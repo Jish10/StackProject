@@ -25,4 +25,4 @@ To compile the project:
 ```bash
 gcc main.c stack.c -o stack
 
-## Created by : João Melicio; Eder Evora
+## Created by : João Melicio
